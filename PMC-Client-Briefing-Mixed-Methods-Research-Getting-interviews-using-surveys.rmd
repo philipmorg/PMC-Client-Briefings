@@ -1,0 +1,218 @@
+---
+subtitle: "Philip Morgan Consulting Client Briefing"
+title: "Mixed Methods Research: Getting interviews using surveys"
+author: "Philip Morgan"
+date: Oct 18, 2019 - v1.0
+abstract: |
+  To set up interviews with market research prospects, you can directly ask them over email, or you can survey them first and then ask for the interview. The survey to interview method collects some quantitative data while earning trust, which makes it a method you might consider using.
+fontsize: 13pt
+urlcolor: blue
+output:
+  tufte::tufte_handout:
+    toc: true
+    toc_depth: 3
+  tufte::tufte_html:
+    toc: true
+    toc_depth: 3
+---
+
+# Introduction
+
+I've helped clients get market research interviews using two methods:
+
+1. Directly ask someone if you can interview them. Outreach is generally via email.
+2. Survey a group of people and provide a method within the survey to arrange a follow-up interview.
+
+This briefing describes how to implement the second method.
+
+# Advantages and disadvantages
+
+The primary disadvantage of the second method is more initial setup work than the first method. After it's set up though, it does have a sort of "autopilot" quality to it, so the marginal effort of getting additional interviews is rather low compared to the first method.
+
+Advantages of the second method:
+
+- Easier to run on "autopilot" after initial setup.
+- In addition to obtaining qualitative data from your interviews, you gather some quantitative data from the survey.
+- Expands your LinkedIn network as a by-product of the research.
+
+# Terminology
+
+I'll use the following terminology in this briefing:
+
+**Population**: The group you want to learn something from. ^[Example: all professional software developers.]
+
+**Recruiting**: Inviting people from the population to participate in your research.
+
+**Sample group**: All the people who are invited to participate in your research. You will usually invite a subset of the population. ^[Example: Professional software developers that I can identify using a LinkedIn Sales Navigator search. This is a subset of the broader population of all professional software developers.]
+
+**Respondent**: Someone who participates in the survey. Example: Those from my LinkedIn Sales Navigator search who actually complete the survey.
+
+**Questionnaire**: The questions the survey asks.
+
+**Convenience Opt-In Sample**: This is the technical name for the type of sampling method you will be using if you use this method. With convenience opt-in sampling, we _cannot_ assume the sample group represents the broader population. Probability sampling does not have this particular shortcoming. 
+
+If anyone asks about your sampling method just tell them what method you are using without apology. No one apologizes for not running the pre-flight checklist for a 747 airplane before driving their car to the grocery store. 
+
+If anyone criticizes your method as less valid than more rigorous methods like probability sampling, remember that your research will not be used to make major public policy or other such decisions, so you do not need more rigorous, difficult, expensive probability sampling methods.
+
+# Overview of the method
+
+If you use this method, here's what you will be doing:
+
+Assumption: You have a LinkedIn account.
+
+1. Make sure you also have a LinkedIn Sales Navigator subscription.
+2. Obtain and configure a LinkedIn automation tool. Options in ascending order of cost include Dux-Soup, Ulinc.co, or LinkedProspect. Ulinc is my preferred tool because it allows you to run multiple campaigns at once, but as of Oct 17, 2019 seems to be in a private beta you may or may not be able to sign up for here: [https://docs.google.com/forms/d/e/1FAIpQLSfxkuoj3xRTQ0PHkgsoioh6qRNsfxn-GzbI4fFhn2QW1b-F4g/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfxkuoj3xRTQ0PHkgsoioh6qRNsfxn-GzbI4fFhn2QW1b-F4g/viewform) 
+3. Choose a survey software. Use Google Forms unless you have more specific requirements that require a more capable tool. If you need more than Google Forms offers, consider PaperForm or GetFeedback or TypeForm.
+4. Design your questionnaire and publish it using your chosen survey software. See the **Questionnaire design** section below for more detail.
+5. Construct your sample group by constructing one or more LinkedIn Sales Navigator searches that get you close to your ideal sample group. For example, if your sample group is managers at logistics and transportation companies, try to construct a LinkedIn Sales Navigator search that includes managers at logistics and transportation companies and includes very few people who are _not_ managers at logistics and transportation companies. You will never get a "perfectly clean" search result set, so don't try to. Just get as close as you can. If you want to include more than 1,000 people in your sample group, construct multiple Sales Navigator searches and limit each search to a maximum of about 1,000 search results. This is because LinkedIn won't let you access search results beyond the 1,000th result in a set of results.
+6. Configure your LinkedIn automation tool to send your survey recruitment message to your sample group. If our sample group is made up of more than one LinkedIn Sales Navigator search, then either configure your automation tool to work through all the searches in a batch (Ulinc) or manually "babysit" the tool through each of your constituent searches (Dux-Soup or LinkedProspect).
+7. As survey responses roll in and respondents indicate willingness to speak to you, reach out to them over email to ask for an interview. If they are unresponsive, follow up once or twice more either by email or by both email and LinkedIn messaging (if you can match their email address with their LinkedIn profile).
+
+## Questionnaire design
+
+Your survey has 3 goals:
+
+1. Obtain some quantitative data.
+2. Earn trust from your sample group by demonstrating that you are not selling anything. This supports goal 3.
+3. Recruit interviewees.
+
+To achieve goal #1, you will ask some questions that attempt to measure or understand something. But to achieve goal #3, you cannot ask too many questions or your survey response rate will likely decrease, getting you fewer of the interviews you want. 
+
+You need to balance your desire to get quantitative answers with your desire to get qualitative insight from interviews, and those two desires are in tension with each other. As you design your questionnaire, keep that tension in mind.
+
+For this method to work well, your questionnaire must have the following questions:
+
+## A screener question
+This question makes sure only people within the desired population respond to the survey. It is almost always the first question in your survey.
+
+Remember that no matter how "clean" your LinkedIn search is, it will contain some results that are outside your desired population. That's why you need a screener question.
+
+Let's say the population I want to learn from is software developers who have worked with WebRTC in the last year. The first question on my questionnaire will be a screener question. I might phrase it like this: "In the last year have you used WebRTC on a personal or paid project?" 
+
+Try to make all of your questions clear and unambiguous. The answer to my screener question will have three options: Yes, No, and Don't Remember. The survey software will only allow a respondent to proceed to the remaining questions if they answer Yes to this screener question.
+
+## An interview recruitment question
+Remember one of your three goals here is to get to talk to people. Your interview recruitment question asks if survey respondents are willing to talk to you. 
+
+I usually phrase this question this way: "Would it be OK if I follow up with additional questions? I will not be adding you to an email list. I will not be selling anything. I will not be pitching anything. I will only be learning from you." I place this question at the end of the survey.
+
+If a respondent leaves their email address in response to this question, I have permission to email them and politely ask if they would schedule a short interview with me. Not all who leave an email address will schedule an interview. That's totally fine. It's OK to follow up with these people if you get ignored on the first request. Limit your followups to 2 (for a total of 3 very politely worded requests).
+
+## Optional: A results shareback question
+
+When recruiting for the survey, I like to incentivize participation in the survey by offering to share the results with respondents.
+
+To facilitate this shareback of results, I add the following question to the survey: "Would you like me to share the anonymous results of this survey with you? If so, please leave your email address here." I place this question after the interview recruitment question, which tends to make the interview recruitment question next-to-last, and the results shareback question the last question on my questionnaires.
+
+## Measurement questions
+
+These are questions that help you understand or measure something. They collect the quantitative data you are seeking with your survey. They go between the screener question(s) and the interview recruitment question or -- if you're using it -- the results shareback question.
+
+I like to be able to promise my sample group that they can complete the survey in a very short period of time, like 60 or 30 seconds. I believe this increases participation. To fulfill this promise, I have to keep my measurement questions easy to answer and I have to avoid asking too many of them.
+
+If you _really_ need a lot of quantitative information, then ask as many measurement questions as you need to. But as you do, remember that our goal with this particular method is to also get interviews, so keep the tension between questionnaire size and response rate in mind.
+
+Finally, almost all survey software allows you to include introductory text at the top of the survey, and at the top of any sections you use to divide up questions. I like to use the introductory text to remind participants what I'm trying to learn, how long it will take them to participate, and any privacy or confidentiality they can expect as they do so. Here's an example:
+
+> If you can spare 30 seconds, I’d like to understand what podcasts you listen to. Survey responses are 100% confidential. All questions are optional.
+
+## Example questionnaires
+
+The following are a few example questionnaires I've recently used. They show you what this all looks like in context:
+
+- I wanted to understand what podcasts senior managers at small consulting firms listen to: [https://forms.gle/3hcMCaqX5XEu6JkDA](https://forms.gle/3hcMCaqX5XEu6JkDA)
+- I wanted to understand the challenges of managing remote developers: [https://forms.gle/8mTTmuB1mqci6DyF7](https://forms.gle/8mTTmuB1mqci6DyF7)
+
+## Recruitment language
+
+When you use this research method, your LinkedIn automation tool will invite people within your sample group to connect with you on LinkedIn. When you do this, LinkedIn gives you a 300-character space where you can add a personalized message.
+
+You will use these 300 characters to invite your sample group to participate in the survey. If these people happen to also connect with you, great. Many do, but that is not our goal. Our primary goal is to invite them to participate in a survey and hopefully they also agree to a followup interview.
+
+You can do both a lot and a little in 300 characters. Here's what you must do:
+
+- Explain your intent
+- Link to your survey
+
+Here's what you should also consider doing:
+
+- Promising that you are not selling anything
+- Incentivize participation somehow. An easy incentive is to offer to share survey results with participants (the aforementioned "shareback question").
+- Explain why you are reaching out to this person in particular.
+
+Here are the recruitment messages I used for the two surveys I linked you to above.
+
+**Podcast listening survey**
+
+> I'm curious which podcasts are most popular among business leaders like yourself. 
+> 
+> Would you be willing to spare 30 seconds for a survey? In exchange, I will share the results with you.
+> 
+> -\> https://forms.gle/S9TjYcHsVQKHg7QX8
+> 
+> I’m not selling anything, guaranteed.
+
+
+**Managing remote devs survey**
+
+> I'm curious how tech managers like yourself work with overseas dev teams.
+> 
+> Would you be willing to spare 2 minutes for a survey? In exchange, I will share the results with you.
+>  
+> -\> https://forms.gle/QaNfP1SbWAQ9FEJb9
+> 
+> I’m not selling anything, guaranteed.
+
+It is possible to use a multi-step recruitment process where you automate asking an initial permission question (ex: "Would it be OK if I as you a few questions about $THING?") and then manually send the survey to those who agree. And it's also possible to nag or remind those who appear not to have taken the survey.
+
+Both of these variations add complexity and fragility to the process, and they run the risk of feeling like social pressure to your sample group, so I recommend avoiding them.
+
+# Pushback
+
+Very rarely you will get objections to this method from your sample group. It can happen, though.
+
+If ~1 out of 1,000 people complains about being recruited by saying something like "You really should introduce yourself before asking for this", I would encourage you to have one of the following responses:
+
+- Ignore their message and move on with your research.
+- If you want: briefly apologize to them for the interruption and then ignore them. :)
+
+If you see 3 or more people out of 100 giving you similar feedback, you might have a structural problem with your approach and you should consider modifying the approach.
+
+# Performance expectations
+
+What should you expect in terms of a response rate? Here's some data from one recent campaign:
+
+- Sample group size: 1,064 (a synthetic sample of two segments: 494 LinkedIn profiles and an estimated 570 email list members who opened the email wherein I recruited for this survey)
+- Responded to the survey: 55 (5% of sample group)
+- Agreed to an interview: 31 (2.9% of sample group, 56% of survey respondents)
+- Also connected on LinkedIn: 181 (37% of the LinkedIn segment of the sample group)
+
+It's worth nothing this campaign was "in network", meaning the sample group I was recruiting from was a close match to my LinkedIn network, and part of it was my business's email marketing list.^[I've also found that restricting my LinkedIn Sales Navigator search to second degree connections is helpful for getting a high response rate with this kind of recruiting.] Specifically, the LinkedIn part of this campaign was reaching out to VPEng and Tech Leads at tech companies. These people are the kind of people who are already in my LinkedIn network, so when I reach out to them on LinkedIn, they see me as less of an outsider to their world.
+
+For contrast, below is a campaign where I was more of an outsider to those I was recruiting for the survey. In this case, the campaign was reaching out to senior managers at small consultancies.
+
+- Sample group size: 1,789 (LinkedIn profiles only)
+- Responded to the survey: 59 (3.3% of sample)
+- Agreed to an interview: I didn't ask for interviews in this study.
+- Also connected on LinkedIn: 308 (17% of sample)
+
+This campaign had a lower response rate than the one where I was more of an insider. This isn't a structural problem. I simply needed to reach out to more people in order to get the number of survey responses I wanted, which made the process take a bit longer.
+
+If you're seeing fewer than 1% of your sample group respond to your survey, you may have a structural problem you need to fix. Anything better than a 1% response rate is probably fine and you just need to allow enough time to gather the number of responses you're hoping for.
+
+# Other recruitment methods
+
+LinkedIn currently offers a useful, effective way to conduct the kind of lean, scrappy research described here. This could change in the future if LinkedIn modifies their platform. Even if that happens, you can continue to use this basic method of `survey -> interview`  in combination with other recruitment methods outside of LinkedIn. Here are some options:
+
+1. Hire someone on Upwork or similar freelancer marketplace to connect with your sample group instead of using a LinkedIn automation tool.
+2. Use Twitter, perhaps in combination with hashtag searches.
+3. Snowball sampling with a high-touch outreach method: [https://en.wikipedia.org/wiki/Snowball\_sampling](https://en.wikipedia.org/wiki/Snowball_sampling)
+4. Run paid ads to reach the sample group and invite their participation in a survey, perhaps with some sort of monetary incentive.
+5. Use panels. [https://en.wikipedia.org/wiki/Online\_panel](https://en.wikipedia.org/wiki/Online_panel) Ex: [https://www.slashdata.co/methodology/](https://www.slashdata.co/methodology/)
+
+# Summary
+
+This market research method is lean and effective. And hopefully now with this briefing in your hands, it's also straightforward to deploy the next time you need an answer to a focused question.
+
+If you have questions, please contact me: [philip@philipmorganconsulting.com](mailto:philip@philipmorganconsulting.com)
