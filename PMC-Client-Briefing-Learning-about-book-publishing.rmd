@@ -44,9 +44,9 @@ output:
   - Include front and back matter in sample
   - Check out Marcus dePaula's wide: mixtus media
   - Ask ~20 people for blurbs
-  - There is a paid book reviewing service, ask David for details
+  - There is a paid book reviewing service, consider using it: https://www.kirkusreviews.com/book-reviews/david-c-baker/business-expertise/
   - launch is important, esp if you offer a special price
-  - Do cate about social media amplification
+  - Do care about social media amplification
   - consider audio book
   - Bowker for ISBN number
   - library of Congress cataloging in publication number - pcn number
