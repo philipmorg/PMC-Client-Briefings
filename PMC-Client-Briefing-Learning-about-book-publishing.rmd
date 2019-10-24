@@ -1,0 +1,19 @@
+---
+subtitle: "Philip Morgan Consulting Client Briefing"
+title: "Learning about book publishing"
+author: "Philip Morgan"
+date: TODO - v1.0
+abstract: |
+  I've been learning about professional self-publishing from someone who runs a boutique imprint. In this briefing I share what I've learned with you.
+fontsize: 13pt
+urlcolor: blue
+output:
+  tufte::tufte_handout:
+    toc: true
+    toc_depth: 3
+  tufte::tufte_html:
+    toc: true
+    toc_depth: 3
+---
+
+# Introduction
