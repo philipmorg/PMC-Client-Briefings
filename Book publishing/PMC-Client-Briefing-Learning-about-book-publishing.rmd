@@ -22,7 +22,7 @@ In early October, 2019 I joined a writing retreat with 3 other business owners. 
 
 Here's what I learned.
 
-## Cover design
+# Cover design
 
 Use <https://www.faceoutstudio.com>. They've designed more NYT Best Seller list book covers than any other studio.
 
@@ -34,21 +34,19 @@ I'm in talks with Faceout now about a cover for TPM v3. Here's what I've learned
 > 
 > Designer: I have 3 designers that work offline this way. See below (scroll down to see their work).
 > 
-> Tim Green: <https://www.faceoutstudio.com/team/tim-green.shtml>
+> **Tim Green**: <https://www.faceoutstudio.com/team/tim-green.shtml>
 > 
-> Jeff Miller: <https://www.faceoutstudio.com/team/jeff-miller.shtml>
+> **Jeff Miller**: <https://www.faceoutstudio.com/team/jeff-miller.shtml>
 > 
-> Lindy Martin: <https://www.faceoutstudio.com/team/lindy-martin.shtml>
+> **Lindy Martin**: <https://www.faceoutstudio.com/team/lindy-martin.shtml>
 > 
-> Budget / Billing:
+> **Budget / Billing**:
 > 
 > The basic fee structure we’d be proposing is as follows:
 > 
-> $300 per unique cover concept (you can decide how many options you want to see on the front end)
-> 
-> $300 for the mechanical prep (spine, back cover, print ready files)
-> 
-> $300 for project management
+> - $300 per unique cover concept (you can decide how many options you want to see on the front end)
+> - $300 for the mechanical prep (spine, back cover, print ready files)
+> - $300 for project management
 > 
 > If we can solve your cover with the first cover presented, your total cost would be $900. If you want to see 2 unique cover options up front or need a second one produced, your fee would be $1,200 …. and so forth. 
 > 
@@ -56,7 +54,7 @@ I'm in talks with Faceout now about a cover for TPM v3. Here's what I've learned
 > 
 > Schedule: TBD
 > 
-> Next Steps:
+> **Next Steps**:
 > 
 > 1. Fill out and send back project brief document (I will send if you’d like to move this forward). I will review w/ your designer of choice and confirm if we’re on board or not, and propose a delivery schedule
 > 2. Decide on how many comps you’d like to see in the initial cover presentation
