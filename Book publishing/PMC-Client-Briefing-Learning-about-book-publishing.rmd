@@ -10,18 +10,69 @@ urlcolor: blue
 output:
   tufte::tufte_handout:
     toc: true
-    toc_depth: 3
+    toc_depth: 2
   tufte::tufte_html:
     toc: true
-    toc_depth: 3
+    toc_depth: 2
 ---
 
 # Introduction
 
+In early October, 2019 I joined a writing retreat with 3 other business owners. One runs a boutique publishing imprint. On the drive back from the cabin to the airport, I grilled him with questions about book publishing.
 
-# Raw Notes
+Here's what I learned.
 
-# publishing
+## Cover design
+
+Use <https://www.faceoutstudio.com>. They've designed more NYT Best Seller list book covers than any other studio.
+
+I'm in talks with Faceout now about a cover for TPM v3. Here's what I've learned about pricing. ^[No guarantees this will be true months or years from now, but it's current as of October 2019.]
+
+> We work mainly with large trade publishers, but really enjoy working with smaller, independent presses and/or individuals when its the right fit. Our average cover design fee is $2,500. Depending on the scope, our cover design fees typically fall in the $2,000 - $3,000 range. We design/ typeset interiors for $10/ page (assuming simple, running text). 
+> 
+> If that budget range is in line w/ your expectations, we can discuss process over the phone whenever convenient for you. If that budget is outside of what you had in mind, I have one other option for your consideration. I have a secondary business platform whereby I tap into one of our senior designers who can produce covers for you as a freelancer. In this model, I can cut our normal studio fee in half, but the process will look a little different. This solution is contingent on their availability.
+> 
+> Designer: I have 3 designers that work offline this way. See below (scroll down to see their work).
+> 
+> Tim Green: <https://www.faceoutstudio.com/team/tim-green.shtml>
+> 
+> Jeff Miller: <https://www.faceoutstudio.com/team/jeff-miller.shtml>
+> 
+> Lindy Martin: <https://www.faceoutstudio.com/team/lindy-martin.shtml>
+> 
+> Budget / Billing:
+> 
+> The basic fee structure we’d be proposing is as follows:
+> 
+> $300 per unique cover concept (you can decide how many options you want to see on the front end)
+> 
+> $300 for the mechanical prep (spine, back cover, print ready files)
+> 
+> $300 for project management
+> 
+> If we can solve your cover with the first cover presented, your total cost would be $900. If you want to see 2 unique cover options up front or need a second one produced, your fee would be $1,200 …. and so forth. 
+> 
+> We 2-part bill ––half up front to be paid before the delivery of the initial comps and then the remaining when we close out the project. Billing will be issued by me under the business name,  Esperto Creative LLC
+> 
+> Schedule: TBD
+> 
+> Next Steps:
+> 
+> 1. Fill out and send back project brief document (I will send if you’d like to move this forward). I will review w/ your designer of choice and confirm if we’re on board or not, and propose a delivery schedule
+> 2. Decide on how many comps you’d like to see in the initial cover presentation
+> 3. Pay the first installment from first invoice
+> 4. I’ll set up a call for you to chat with the designer (this will set the cover design process in motion)
+> 5. Once an initial cover is approved, we will need the following from you to complete your cover
+> - Final confirmation of trim size (so as to select the right template)
+> - All front cover copy
+> - Spine copy
+> - Imprint logo
+> - Backcover copy
+> - Endorsements for the back cover if you have them
+> - ISBN and barcode (we can create the barcode for you)
+> - Author bio and photo if needed.
+> - We’ll upload your cover to your publishing platform
+>7. We can recommend an interior designer we work with a lot of you need help there.
 
 - cover design - faceout studiod
 - front matter - mirror trad pub
