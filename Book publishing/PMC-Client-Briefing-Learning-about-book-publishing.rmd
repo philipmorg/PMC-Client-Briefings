@@ -87,7 +87,7 @@ Just mirror exactly what you see traditionally published books doing. Hell, copy
 
 Printing quality sends a signal about professionalism and expertise, so don't cheap out here.
 
-The sweet spot is 85lb text -- matte coated for a luxe feel, or uncoated for a more workaday feel. ^[Note from Philip: 85lb or 105lb *gloss* coated will give you a vivid flashback to the National Geographic magazines you read as a kid.]
+The sweet spot is 70 to 85lb text -- matte coated for a luxe feel, or uncoated for a more workaday feel. ^[Note from Philip: 85lb or 105lb *gloss* coated will give you a vivid flashback to the National Geographic magazines you read as a kid.]
 
 If you're publishing a ring-bound manual, or a wire-bound manual, consider page lifters as section separators. Lifters help with the UX.
 
