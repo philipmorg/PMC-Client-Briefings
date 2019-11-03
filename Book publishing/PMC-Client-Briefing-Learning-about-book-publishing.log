@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.18)  1 NOV 2019 10:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.18)  3 NOV 2019 09:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -794,29 +794,35 @@ e
 \tf@toc=\write4
 \openout4 = `PMC-Client-Briefing-Learning-about-book-publishing.toc'.
 
+
+Overfull \hbox (45.7182pt too wide) in paragraph at lines 95--100
+\T1/cmr/m/n/10 rusty mem-ory. In places where I need to mix in my voice/perspec
+tive/experience, 
+ []
+
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-00.
+04.
 (/Users/philipmorg/Library/TinyTeX/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 100
+LaTeX Font Info:    Trying to load font information for U+msa on input line 104
 .
 (/Users/philipmorg/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 100
+LaTeX Font Info:    Trying to load font information for U+msb on input line 104
 .
 (/Users/philipmorg/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-LaTeX Warning: Marginpar on page 1 moved.
-
-[1
+) [1
 
 {/Users/philipmorg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 }]
-Overfull \hbox (8.94904pt too wide) in paragraph at lines 133--135
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+Overfull \hbox (8.94904pt too wide) in paragraph at lines 141--143
 []\T1/cmr/bx/n/9 Lindy Mar-tin\T1/cmr/m/n/9 : []$\T1/cmtt/m/n/9 https : / / www
  . faceoutstudio . com / team / lindy-[]martin . 
  []
@@ -824,62 +830,105 @@ Overfull \hbox (8.94904pt too wide) in paragraph at lines 133--135
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been 
 set up.
-This message occurred on input line 224.
+This message occurred on input line 184.
 
 [2]
-Overfull \hbox (5.67255pt too wide) in paragraph at lines 287--289
-\T1/cmr/m/n/10 Ama-zon) by JPL ([]$\T1/cmtt/m/n/10 https : / / www . jplbooks .
- com / pages / fulfillment-[]1$[]\T1/cmr/m/n/10 )  
+
+LaTeX Warning: Marginpar on page 3 moved.
+
+
+Class tufte-handout Warning: Proper spacing of small-caps letters has not been 
+set up.
+This message occurred on input line 270.
+
+[3]
+Overfull \hbox (10.96265pt too wide) in paragraph at lines 280--280
+\T1/cmtt/m/n/8 cost-[]create-[]self-[]publishing-[]imprint/$[]  
  []
 
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 284--284
+$[]$[]$\T1/cmtt/m/n/8 https : / / www . 
+ []
+
+
+Overfull \hbox (59.70123pt too wide) in paragraph at lines 284--284
+\T1/cmtt/m/n/8 get-[]a-[]library-[]of-[]congress-[]number-[]for-[]your-[]book .
+ 
+ []
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+Class tufte-handout Warning: Proper spacing of small-caps letters has not been 
+set up.
+This message occurred on input line 331.
+
+[4]
 
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 296.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been 
 set up.
-This message occurred on input line 296.
+This message occurred on input line 337.
 
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 296.
+[5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 337.
 (./PMC-Client-Briefing-Learning-about-book-publishing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 296.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 296.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 337.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 337.
 Package rerunfilecheck Info: File `PMC-Client-Briefing-Learning-about-book-publ
 ishing.out' has not changed.
-(rerunfilecheck)             Checksum: E5102FD478AC930B0BC808C4514496B4;323.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 296.
+(rerunfilecheck)             Checksum: 7BC6021268E187BFC10CD33142D6BAEA;1350.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 337.
  ) 
 Here is how much of TeX's memory you used:
- 13172 strings out of 494111
- 186925 string characters out of 6170576
- 284808 words of memory out of 5000000
- 17022 multiletter control sequences out of 15000+600000
- 20435 words of font info for 57 fonts, out of 8000000 for 9000
+ 13225 strings out of 494111
+ 187563 string characters out of 6170576
+ 287223 words of memory out of 5000000
+ 17048 multiletter control sequences out of 15000+600000
+ 22467 words of font info for 60 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 44i,12n,51p,298b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
- </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.6
-00pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm100
-0.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm
-0900.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-ctt0900.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/e
-c/ecbx0900.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappe
-n/ec/ecrm0500.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jkna
-ppen/ec/ecrm0800.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ectt1000.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfou
-r/jknappen/ec/ecrm1000.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/lj
-four/jknappen/ec/ecrm1200.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk
-/ljfour/jknappen/ec/ecrm0900.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts
-/pk/ljfour/jknappen/ec/ecti1200.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fo
-nts/pk/ljfour/jknappen/ec/ecti1440.600pk>
-Output written on PMC-Client-Briefing-Learning-about-book-publishing.pdf (3 pag
-es, 86364 bytes).
+ 44i,11n,51p,298b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.6
+00pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt080
+0.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti
+0800.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/t
+crm0900.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/e
+c/ectt0900.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappe
+n/ec/ecbx0900.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/jkna
+ppen/ec/ecrm0500.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecrm0800.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/ljfou
+r/jknappen/ec/ectt1000.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk/lj
+four/jknappen/ec/ecrm1000.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts/pk
+/ljfour/jknappen/ec/ecrm1095.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fonts
+/pk/ljfour/jknappen/ec/ecti1095.600pk> </Users/philipmorg/.TinyTeX/texmf-var/fo
+nts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </Users/philipmorg/.TinyTeX/texmf-var
+/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </Users/philipmorg/.TinyTeX/texmf-
+var/fonts/pk/ljfour/jknappen/ec/ecti1200.600pk> </Users/philipmorg/.TinyTeX/tex
+mf-var/fonts/pk/ljfour/jknappen/ec/ecti1440.600pk>
+Output written on PMC-Client-Briefing-Learning-about-book-publishing.pdf (5 pag
+es, 112461 bytes).
 PDF statistics:
- 399 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 16 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 578 PDF objects out of 1000 (max. 8388607)
+ 200 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

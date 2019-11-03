@@ -2,7 +2,7 @@
 subtitle: "Philip Morgan Consulting Client Briefing"
 title: "Learning about book publishing"
 author: "Philip Morgan"
-date: TODO - v1.0
+date: November 2, 2019 - v1.0
 abstract: |
   I've been learning about professional self-publishing from someone who runs a boutique imprint. In this briefing I share what I've learned with you.
 fontsize: 13pt
@@ -83,7 +83,7 @@ The appearance of your front matter has an outsized impact since if you offer a 
 
 Just mirror exactly what you see traditionally published books doing. Hell, copy what I do in my books!
 
-## Printing
+# Printing
 
 Printing quality sends a signal about professionalism and expertise, so don't cheap out here.
 
@@ -105,7 +105,7 @@ Yeah, blurbs are a game, but they're a game you should play.
 
 Ask about 20 people for blurbs. Give them a desired word count, and a 2 to 3-week deadline.
 
-## Vanity imprint
+# Vanity imprint
 
 Do create a vanity imprint. ^[<https://www.authorimprints.com/cost-create-self-publishing-imprint/>]
 
@@ -137,6 +137,6 @@ Do invest in social media amplification.
 
 # Conclusion
 
-A lot of this is "do this" guidance, without any supporting "why" details. My source for this has seen a lot more of the publishing industry, as both a functionally self-published author and as publisher for others, than I have. So in short, I trust him to give good answers to my questions, and for those answers to be relevant to the kind of context I'm operating in. That's both why I didn't press him for "why" details, and why I'm passing along his guidance in concise "do this" form to you.
+A lot of this is "do this" guidance, without any supporting "why" details. My source for this has seen a lot more of the publishing industry, as both a functionally self-published author and as publisher for others, than I have. So in short, I trust him to give good answers to my questions, and for those answers to be relevant to the kind of context I'm operating in. That's both why I didn't press him for "why" details, and why I'm passing along his guidance in concise "do this" form to you. This is, after all, a _brief_ ing
 
 I hope it helps when the day comes that you're ready to publish a book based on your expertise and point of view.
