@@ -20,13 +20,15 @@ output:
 
 In early October, 2019 I joined a writing retreat with 3 other business owners. One runs a boutique publishing imprint. On the drive back from the cabin to the airport, I grilled him with questions about book publishing.
 
-Here's what I learned. Most of it is written as if he's speaking, and it's based on notes I made during the conversation rather than my rusty memory.
+Here's what I learned. Most of it is written as if he's speaking, and it's based on notes I made during the conversation rather than my rusty memory. In places where I need to mix in my voice/perspective/experience, I'll call that out as a "Note from Philip".
 
 # Cover design
 
 Use <https://www.faceoutstudio.com>. They've designed more NYT Best Seller list book covers than any other studio.
 
-I'm in talks with Faceout now about a cover for TPM v3. Here's what I've learned about their pricing. ^[No guarantees this will be true months or years from now, but it's current as of October 2019.]
+## Note from Philip
+
+I'm in talks with Faceout now about a cover for TPM v3. Here's what I've learned about their pricing, copied from an email thread. ^[No guarantees this will be true months or years from now, but it's current as of October 2019.]
 
 > We work mainly with large trade publishers, but really enjoy working with smaller, independent presses and/or individuals when its the right fit. Our average cover design fee is $2,500. Depending on the scope, our cover design fees typically fall in the $2,000 - $3,000 range. We design/ typeset interiors for $10/ page (assuming simple, running text). 
 > 
@@ -71,8 +73,11 @@ I'm in talks with Faceout now about a cover for TPM v3. Here's what I've learned
 > - Author bio and photo if needed.
 > - We’ll upload your cover to your publishing platform
 > 7. We can recommend an interior designer; we work with a lot if you need help there.
+> 
+> **Lead Time**
+> as an average … we need at least 2 week to get a new job scheduled, assigned, designed and initial cover comps presented. Maybe 1-2 week for revisions as needed, 3 days for interior design template, then maybe 5 days for full interior layout and final files prep. So …. approximately 4-5 weeks
 
-## Front matter
+# Front matter
 
 The appearance of your front matter has an outsized impact since if you offer a sample chapter (you should do that too), the front matter is part of the sample chapter first impression.
 
@@ -80,45 +85,58 @@ Just mirror exactly what you see traditionally published books doing. Hell, copy
 
 ## Printing
 
+Printing quality sends a signal about professionalism and expertise, so don't cheap out here.
 
+85lb -- matte coated for a luxe feel, or uncoated for a more workaday feel -- is the sweet spot. ^[Note from Philip: 85lb or 105lb *gloss* coated will give you a vivid flashback to the National Geographic magazines you read as a kid.]
 
+If you're publishing a ring-bound manual, or a wire-bound manual, consider page lifters as section separators. Lifters help with the UX.
 
-- Quality of printing
-- 28lb writing/text
-- Page lifter helps
-- Think about shipping cost
-- Print on pre-drilled paper
-- Need to shrink wrap them
-- microsite just for book
-- inbound
-- Digital marketer in Austin
-- Taan based out of Boston, Peter giertz
-- Do play the blurb game
-    - 2 or 3w deadline
-    - Word count for blurb
-  - create vanity publishing company name
-  - Get pro author portrait
-  - Sample chapter opt in is good
-  - Include front and back matter in sample
-  - Check out Marcus dePaula's wide: mixtus media
-  - Ask ~20 people for blurbs
-  - There is a paid book reviewing service, consider using it: https://www.kirkusreviews.com/book-reviews/david-c-baker/business-expertise/
-  - launch is important, esp if you offer a special price
-  - Do care about social media amplification
-  - consider audio book
-  - Bowker for ISBN number
-  - library of Congress cataloging in publication number - pcn number
-  - test a traditional direct mail sales offer
-  - how can I embiggen my weekly email list audience?
-  - 
+If you're publishing a ring-bound manual and sourcing the printed pages seperately from the binder, print on pre-drilled paper. Binders may also need to be shrink wrapped to better survive shipping.
 
+On the subject of shipping cost, think and research deeply about what it will take to ship something heavy, like a 3-ring binder publication, internationally.
 
-# Book Printing
+# Microsite
 
-The Manifesto
-Printed by Color House Graphics in MI
-Fulfillment (to Amazon) by JPL (https://www.jplbooks.com/pages/fulfillment-1)
+Create a microsite just for the book, both for ease of promotion during speaking/podcast guesting and for the professional signal it sends.
 
-Pricing Creativity
-Binders printed by Corporate Image (https://www.corp-image.com/)
-Fulfillment and insert/tab printing by Bodnar Printing Company (https://www.bodnarprinting.com/)
+# Blurbs
+
+Yeah, blurbs are a game, but they're a game you should play.
+
+Ask about 20 people for blurbs. Give them a desired word count, and a 2 to 3-week deadline.
+
+## Vanity imprint
+
+Do create a vanity imprint. ^[<https://www.authorimprints.com/cost-create-self-publishing-imprint/>]
+
+Do get an ISBN number. ^[<https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn>]
+
+Do get a Library of Congress PCN number. ^[<https://www.storiestotellbooks.com/blog/get-a-library-of-congress-number-for-your-book.html>]
+
+# Reviews
+
+Reviews are a game, but they are a game you should play. Consider pay for play. Use this company: <https://www.kirkusreviews.com/indie-reviews/>
+
+# Author portrait
+
+Do invest in a pro author portrait.
+
+# Sample chapter
+
+Do provide a sample chapter folks can download from the book's microsite, possibly gated behind an opt-in so you can communicate with those who downloaded a sample chapter. Do include the front and back matter in the sample.
+
+# Audio book
+
+Do consider recording an audio book and releasing it in tandem with the other book format(s).
+
+# Launch and promotion
+
+Doing a structured launch is important, especially if you offer a special price during launch.
+
+Do invest in social media amplification.
+
+# Conclusion
+
+A lot of this is "do this" guidance, without any supporting "why" details. My source for this has seen a lot more of the publishing industry, as both a functionally self-published author and as publisher for others, than I have. So in short, I trust him to give good answers to my questions, and for those answers to be relevant to the kind of context I'm operating in. That's both why I didn't press him for "why" details, and why I'm passing along his guidance in concise "do this" form to you.
+
+I hope it helps when the day comes that you're ready to publish a book based on your expertise and point of view.
