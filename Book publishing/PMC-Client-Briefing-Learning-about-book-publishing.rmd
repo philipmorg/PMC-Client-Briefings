@@ -107,11 +107,11 @@ Ask about 20 people for blurbs. Give them a desired word count, and a 2 to 3-wee
 
 # Vanity imprint
 
-Do create a vanity imprint. ^[<https://www.authorimprints.com/cost-create-self-publishing-imprint/>]
+Do create a vanity imprint. ^[A vanity imprint is a made-up publishing company name, likely with no legal company structure behind it. Learn more: <https://www.authorimprints.com/cost-create-self-publishing-imprint/>]
 
-Do get an ISBN number. ^[<https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn>]
+Do get an ISBN number. ^[Buy one from this company: <https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn>]
 
-Do get a Library of Congress PCN number. ^[<https://www.storiestotellbooks.com/blog/get-a-library-of-congress-number-for-your-book.html>]
+Do get a Library of Congress PCN number. ^[Instructions here: <https://www.storiestotellbooks.com/blog/get-a-library-of-congress-number-for-your-book.html>]
 
 # Reviews
 
@@ -123,17 +123,17 @@ Do invest in a pro author portrait.
 
 # Sample chapter
 
-Do provide a sample chapter folks can download from the book's microsite, possibly gated behind an opt-in so you can communicate with those who downloaded a sample chapter. Do include the front and back matter in the sample.
+Do provide a sample chapter folks can download from the book's microsite, possibly gated behind an opt-in so you can follow up with those who downloaded a sample chapter. Do include the front and back matter in the sample.
 
 # Audio book
 
-Do consider recording an audio book and releasing it in tandem with the other book format(s).
+Do consider recording an audio book and releasing it at the same time as the other book format(s). Enough people consume books only in audio format that this matters.
 
 # Launch and promotion
 
 Doing a launch is important, especially if you offer a special price during launch.
 
-Do invest in social media amplification.
+Do invest in social media amplification, both generally, and specifically during the launch.
 
 # Conclusion
 
