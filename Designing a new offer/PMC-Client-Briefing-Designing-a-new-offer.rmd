@@ -1,0 +1,91 @@
+---
+subtitle: "Philip Morgan Consulting Client Briefing"
+title: "Designing a new services offer"
+author: "Philip Morgan"
+date: November 6, 2019 - v0.5
+abstract: |
+  Here's what to think through when designing a new offer. This is less about the offer's structure and more about preparing to communicate the offer to prospects.
+fontsize: 13pt
+urlcolor: blue
+output:
+  tufte::tufte_handout:
+    toc: true
+    toc_depth: 2
+  tufte::tufte_html:
+    toc: true
+    toc_depth: 2
+---
+
+# Designing a new offer
+
+This is a framework for thinking through and articulating a new service offering.
+
+Not every item below will apply to every service offering, but I'm hoping this list helps you avoid overlooking anything critical for your offer.
+
+# Framing
+
+Why is this offer relevant?
+
+There's this popular copywriting framework called the Pain - Dream - Fix framework. In the world of that framework, your offer is relevant because it addresses a pain or a problem. (ex: Slow websites lose you e-commerce sales. I fix that and thereby increase your sales.)
+
+But sometimes an offer is relevant because it helps your clients take advantage of a new opportunity. (ex: Cloud hosting turns Capex into Opex, and that gives access to new opportunities.)
+
+Sometimes an offer is relevant because the external world has changed (a "sea change") and your clients need helping adapting to and -- ideally -- thriving in this new, changed world. (ex: The current administration in the US is making supply chains that run through China more costly and risky than ever before. I help you react to this new pressure.)
+
+And finally, sometimes an offer is relevant because your clients want to implement some sort of fundamental change from the inside out, and they need help navigating that change successfully. (ex: You want to stop marketing and start operating like a media company because you believe this will help you leapfrog your competitors. I help you with this risky, ambitious change.)
+
+You'll need to frame your offer somehow, either in terms of a problem, pain, opportunity, sea change, or inside-out change. Your framing will often involve being very clear about who this offer is for.
+
+# How will you create the value?
+
+This might be a simple process walkthrough. (ex: I'll interview 20 of your users, analyze those findings, and present you with recommendations about what to do.)
+
+It might include a description of a unique advantage you posess, like unique expertise, a proprietary (but not necessarily secret) process, or a unique dataset. (ex: 50 firms in your category have given me access to their Salesforce account and I've used some custom software and  a pretty straightforward method to identify where their pipeline slows down. We'll benchmark you against them and that will tell us where to focus our optimization effort.)
+
+# What expectations about the value are reasonable?
+
+Help your client understand what's reasonable to expect about outcomes and the value of those outcomes.
+
+Help them understand the probability of success, or the range of likely outcomes. Help them understand what increases, decreases, and doesn't at all effect the probability of success.
+
+Help them understand what external forces could effect the value of the outcome.
+
+# How long will it take?
+
+Help your client understand the timeline.
+
+Make it easy, nuanced, and realistic. Help them understand what makes things go faster, what slows them down, what is vital, and what is optional. 
+
+Give them enough detail to understand how to think about timeline in a realistic way, but avoid overwhelming them.
+
+# Client involvement
+
+Help your client understand what involvement from their end is necessary for ideal results. 
+
+To use an analogy, are they getting brain surgery and they just need to fast for 24h, change into a robe, lie down and let the hospital staff do the rest?
+
+Or are they trying to get in shape and you're the personal trainer and they need to do all the hard work themselves with your guidance?
+
+# Uncertainty & risks
+
+What if it doesn't work? What does that look like? How bad will it be if it doesn't work?
+
+What if it _does_ work? What happens as a second order consequence?
+
+What important-to-the-project stuff will your client have good intentions about but be naturally disincentivized to actually follow through on? What happens if natural behavioral incentives override their good intentions?
+
+What risk profile does your client need in order to get the best possible results from this work?
+
+If your client is less risk-positive, how can uncertainty be reduced? How can risk (uncertainty that becomes harm or loss if things turn out a certain way) be managed or reduced through good planning?
+
+# Budget
+
+What does your client need to budget for this? (What you charge for your work is indeed a _price_, but it's better to frame it as _budget_ that needs to be allocated. It's not an "investment", or a "cost".) Your budget does not need to have line items like a repair bill for a car would. It probably should not.
+
+It's OK for a large portion of the budget to be taken as profit by you. In the case of offering advice, the margin may approach or exceed 90%.
+
+Is there a range of approaches and corresponding budgets that would work? Or is there only one good solution? Neither situation is superior, just tell the client what's needed for success, and if there's only one path to success, then they have one option, and if there are more, then they have more options. Don't try to engineer things to have 3 options if that's an unatural fit for the situation at hand.
+
+# Conclusion
+
+Not all of the above needs to make it into a written description of your new service, but you should think through all of this stuff so that you're prepared for a realtime sales conversation.
