@@ -16,6 +16,7 @@ output:
     toc_depth: 2
 ---
 
+\newpage
 # Designing a new offer
 
 This is a framework for thinking through and articulating a new service offering.
