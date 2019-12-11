@@ -1,0 +1,162 @@
+---
+subtitle: "Philip Morgan Consulting Client Briefing"
+title: "A meditation on risk"
+author: "Philip Morgan"
+date: December 11, 2019 - v1.0
+abstract: Seeking to minimize risk sometimes accomplishes the opposite.
+fontsize: 13pt
+urlcolor: blue
+output:
+  tufte::tufte_handout:
+    toc: true
+    toc_depth: 2
+  tufte::tufte_html:
+    toc: true
+    toc_depth: 2
+---
+
+Risk in decision making is the possibility of loss or harm, caused by uncertainty about the outcome of the decision. 
+
+Understanding how you or I relate to risk is important because taking on excessive risk increases the possibility of loss or harm, while taking on too little risk does the same over a longer time period.
+
+Allow me to explain.
+
+## **Risk itself** has two important components
+
+**Uncertainty**: You just don't know for sure what the outcome of an uncertain decision is going to be. Uncertainty is not the same thing as risk. If there's a magical casino full of slot machines where every round of play causes the machine to spit out more money than was put in -- but it's spitting out a different amount every time -- there's no _risk_ to playing. I don't know how much I'll make. That's _uncertainty_. But I won't suffer loss or harm by playing because I'll walk away with more money than when I started.
+
+**Potential Loss or Harm**: This, combined with uncertainty, is risk. We might come out ahead, or we might lose or be harmed in some way. Both a win or a loss are possible, and we don't know for sure what we'll end up with. That's the essence of risk. Again, `uncertainty + potential loss/harm = risk`.
+
+_Uncertainty alone_ is not risky. It's just... uncertainty about what might happen! Remember our magical casino where the only uncertainty is how much we'll win. That casino is not a risky place.
+
+## **Your relationship to risk** has two important components
+
+Those components are: 1) your emotional reaction to the risk and 2) your ability to sustain a loss or recover from some sort of harm.
+
+Let's imagine for a moment we are developing an algorithm to assess risk and make recommendations about what to do in an uncertain situation. Would we want this algorithm to have an emotional reaction to the potential for loss or harm?
+
+Nope! We'd want our algorithm to be cold, calculating, and un-emotional in its assessment of risk. That's because emotion never increases our ability to _accurately_ assess risk.
+
+There are, of course, _many_ other human qualities that help us make _better decisions_. I'm not arguing for all decisions to be made by machines. But if the decision involves assessing risk, then we want to strip all emotion out of _the risk-assessment part of the decision_.
+
+Our natural, human emotions cause us to overweight certain parts of risk assessment, and/or underweight others. Our emotions distort our ability to accurately assess risk.
+
+This is normal, and there's no getting around it.
+
+**Your emotional reaction to a decision that involves risk is part of your _risk profile_.**
+
+When we combine uncertainty with a potential for loss or harm (risk), most humans will experience an emotional response as they decide how to proceed. Said differently, most humans will _feel something_ when they face risk.
+
+Some people are very comfortable with the idea of uncertainty leading to a loss or harm. They might not enjoy the actual loss or harm, and they certain't don't prefer that outcome, but they don't let that prevent them from taking risk.
+
+Other people actively seek to avoid loss, harm, or the possibility of loss/harm, and so they choose what seem to be less risky options when making decisions under conditions of uncertainty. In some cases, their aversion to loss/harm is so strong that they will forgo taking even risks with a high probability of a positive return because the small probability of loss/harm is repellant to them. And in other cases, these folks over-estimate the severity of the potential loss/harm, and seek to avoid the risk for that reason.
+
+There are other behavioral permutations we don't need to discuss. The main idea is this: in the face of risk, our emotional relationship to the idea of risk influences our assessment of the risk and the resulting decision.
+
+There is a second component to your risk profile.
+
+**Your ability to sustain a loss/harm**: Despite what you may or may not _feel_ about risk, you also have a real, physical ability to sustain a loss or harm. No human is invincible in the face of severe enough physical damage, and no person or company is bankruptcy-proof. At some point, your ability to sustain loss/harm will be exhausted and you can be temporarily or permanently overcome by the potential negative outcome of a decision made under conditions of uncertainty.
+
+This ability to sustain loss/harm and "stay in the game" is the second component of your risk profile.
+
+**The combination of your emotional reaction to risk and your physical ability to sustain loss/harm is your *risk profile*.** Your risk profile defines your relationship to risk.
+
+The fact that your risk profile has two components leads to some interesting permutations:
+
+- High ability to withstand loss/harm but low emotional comfort with risk. These are people who could accept a high degree of risk (and potential payoff) but choose to avoid it in order to maximize their feeling of safety or comfort.
+- High emotional comfort with risk but low ability to withstand loss/harm. This describes, among others, entrepreneurs who would cheerfully take on more risk, but their limited ability to sustain a loss holds them back from doing so.
+
+If we take a quantitative view, your risk profile is a score (1.75 to 7 in my way of calculating this) that combines your emotional response to risk with your physical ability to sustain loss/harm. **Both of the cases above could have the same risk profile score**. In the first case the emotional component would be low but the ability to withstand loss/harm would be high. In the second, the numbers could be reversed, giving the same total risk profile score.
+
+## Why this matters
+
+You should calibrate your risk-taking behavior with your risk profile. If you don't, taking on excessive risk _increases the possibility of loss or harm_, while taking on too little risk _does the same but over a long timeframe_.
+
+It's tempting to visualize taking a risk as making a bet in a game of chance. This analogy is helpful, but only to a certain point.
+
+In reality, a bet is _transactional_, while risk taking in a business context is _action within a complex system_. Complex systems have non-instantaneous feedback loops, and that is why a bet in a game of chance is so different than risk taking in a business.
+
+In a game of chance, your bet is quickly decided by the game, and the outcome is relatively binary. Once the bet is placed, the resolution of the bet is a relatively mechanical, relatively fast process. You win or lose, and you know which it is pretty quickly.
+
+In a complex system, taking a risk might require a cascade of followthrough actions over time, and over that implementation period you have ample opportunity to _undermine the effectiveness of your own decision_ by "flinching", meaning you change course or hesitate when you should move forward or you otherwise act in a way that's inconsistent with your initial decision. This is why I say taking on excessive risk -- meaning an amount of risk beyond what your risk profile would suggest as prudent -- _increases_ the possibility of loss or harm.
+
+Let's use some made-up numbers to represent risk profile and the level of risk inherent in a decision. We'll use a scale that runs from 1.75 to 7, which is the same scale I use for modeling my client's risk profile.
+
+**Scenario**: You are considering hiring your first full time employee.
+
+- Your risk profile is 4.
+- The risk of hiring your first full time employee is 5.
+
+You are taking on a risk that is beyond your risk profile. Why is your risk profile 4 and not some other number? We'll get to that, but for now it's because a quantitive assessment of your emotional comfort with risk and your ability to sustain loss/harm results in a score of 4.
+
+Let's say the risk of hiring your first full time employee scores 5 on our scale because there's a 60% chance it won't work out, and if it doesn't work out you'll lose money. It's more likely this hire will result in loss or harm than that it will be beneficial.
+
+You're taking on more risk than you should. In reality, this increases the chance that this hire won't work from 60% to a larger probability. Now there's maybe 70 or 80% chance it won't work out. Why?
+
+Because you're likely to flinch.
+
+You've taken on more risk than you should. This makes you uncomfortable. Maybe as a result you micromanage this new employee, which increases the chance they chafe at the micromanagement and leave abruptly for greener pastures.
+
+Or maybe, in an emotional state of anxiety, you scrutinize their work more than is appropriate, leading you to give lots of negative feedback, leading also to their abrupt departure.
+
+Taking on excessive risk has modified your behavior in a way that increases the chance of a negative outcome.
+
+Let's look at one more example of flinching.
+
+**Scenario**: You've been working with clients who see you as a commodity. You want to work with "high-ticket clients" that see you as an expert. Because your current clients are not very profitable, you need to bill 35 hours/week to meet your financial needs. You believe that if you spend 10 hours/week getting up to speed on advanced Salesforce customizations, in 3 months you will have the expert credibility you seek, and you can start pitching your "high-ticket" services to new clients who will be more profitable to work with.
+
+You have a decision, and you have a 3-month implementation period for that decision.
+
+Earlier I said: "In a complex system, taking a risk might require a cascade of followthrough actions over time, and over that implementation period you have ample opportunity to _undermine the effectiveness of your own decision_ by 'flinching'."
+
+Over the coming 3 months, you need to forgo 5 hours of billing each and every week to dedicate to investing in your Salesforce customization skill and also avoid working more than a total of 40 hours/week. 30 hours billable, 10 hours investing, 40 hours total. If we think of each new week as a re-commitment to this plan, that's 12 opportunities to "flinch"; to quickly lose your resolve, to question the wisdom of the initial decision, or to question the probability of this investment in your own expertise paying off.
+
+Furthermore, the financial pressure of giving up those 5 billable hours/week may gradually wear down your resolve. In addition to needing to re-committ to the decision each of the 12 weeks, you may have occasional opportunities to subtly compromise the initial decision. To say "well, just this one time I'll allocate more to billing and less to investment..." to yourself in the face of an opportunity to bill more than 30 hours/week for a short period of time. To "cheat" on your plan.
+
+If the decision to forgo 5 hours/week of billings caused you to exceed your risk profile, whatever chance your investment of 10 hours/week over 3 months had of paying off is _reduced_ because that same 3 month period contains many opportunities for you to flinch and increase the chances of failure.
+
+Yes, this is an artificial example. For example, maybe you flinch a little bit and 3 months becomes 4 but your risk pays off anyway. That's not a bad outcome at all.
+
+But I hope you see how creating unnecessary discomfort for yourself through excessive risk-taking decreases the probability of a positive outcome. Exceeding your risk profile decreases the odds that a risky decision will pay off.
+
+To return to our investing-in-Salesforce-skills example and to use some made-up numbers to illustrate, perhaps that investment had a 70% chance of paying off, and the potential payoff was $100,000. Because implementing the decision exceeded your risk profile, you reduced the chance of it paying off to 50%. One imperfect, over-simplified way to model this is to say we've cost ourselves $20k in potential upside by taking on excessive risk.
+
+This leads to the very good question: is there a different way we could have an 80 or 90% chance at a potential payoff of $60,000? Using the same `probability * maximum potential payoff` oversimplified math, we land in the same ~$50k ballpark, but with less stress because we've tried to avoid exceeding our risk profile. In a complex system, the answer is almost always: "yes, there are other routes you can pursue, and others may be a better fit for your risk profile."
+
+## Longitudinal risk
+
+Taking on **too much** risk -- exceeding your risk profile -- increases the possibility of loss/harm _in the implementation of the risky decision_.
+
+Taking on **too little** risk, relative to your risk profile, increases the possibility of loss/harm, _over a longer time period in your business in general_. This is longitudinal risk.
+
+The discussion above about taking on too much risk is generally applicable to much of life, including your business. The discussion below about taking on too little risk is specific to this context: a services business where expertise is the primary value creator, in the contemporary time period where the pace of technological progress high or the use of technology is expanding to new domains. Briefly: an expertise business at a time when "software is eating the world".
+
+Technology is "about" many themes, and one of those themes is _movement_. Movement from the _known_ to the _unknown_. Movement from the _current_ to the _new_. Constant _motion_. Constant _change_.
+
+It's this constant motion that causes longitudinal risk.
+
+Stated succinctly: choosing to initiate change is risky, but choosing to avoid change -- in a changing context -- is _more_ risky.
+
+Handwavey social science alert! For most of human history, motion/change represented danger. A movement in the underbrush over there, or a new group of people with different-colored skin or form of dress showing up on the edge of town both represented real danger. Our inherited cognitive wiring that views movement/change as a potential threat is there for good reason. For most of human history, suspicion of change/moment reduced the possibility of loss/harm.
+
+In the contemporary context, this cognitive wiring actually _increases_ the possibility of loss/harm over the course of a career or the life of a business. The form of loss/harm at play here is _irrelevance_. 
+
+**Resisting change makes it more likely your expertise -- the primary value creator in your business -- eventually becomes less relevant or entirely irrelevant.**
+
+The approach to risk that will maximize your value as an expert over the course of your career is to **always take on as much risk as your risk profile allows**, but -- for the reasons described above -- **be careful about exceeding your risk profile**.
+
+Over a relatively longer timeframe, let's say 5 to 10 years, your risk profile can change considerably. The easiest to change is your physical ability to sustain loss/harm. You can accrue savings or credit to draw from. You can collect other assets or abilities that help you sustain loss/harm. And you can even change your emotional response to the possibility of loss/harm. You can "work on yourself", or simply develop thicker skin through the experience of life as an entrepreneurial expert.
+
+This means that over time, we would expect an entrepreneurial expert who is seeking to maximize their value to always take on an ever-increasing amount of risk.
+
+If we visualize risk as the tachometer on an internal combustion engine, the operating range has two zones: the "red zone" and everything else. If the red zone represents an entrepreneurial expert exceeding their risk profile, we would expect to see them keep the needle of the tach just below the beginning of the red zone, and over their career, we would expect the red zone to include less and less of the total range of the tach. We would expect their "risk RPM" to increase over the course of their career.
+
+This expert would spend their "risk budget" carefully, seeking to focus the risk budget on decisions and actions that help them _profit from the changes in the broader context_. This means, necessarily, that they and the composition of their expertise will also need to change.
+
+And this is why taking on **too little** risk, relative to your risk profile, increases the possibility of loss/harm over the course of your career.
+
+If we're several rounds in with our drinking buddies, we'll say it thusly:
+
+Take on too much risk and you risk fucking it up.
+
+Take on too little risk and you risk irrelevance.
