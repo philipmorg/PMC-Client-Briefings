@@ -7,13 +7,16 @@ abstract: Seeking to minimize risk sometimes accomplishes the opposite.
 fontsize: 13pt
 urlcolor: blue
 output:
-  tufte::tufte_handout:
-    toc: true
-    toc_depth: 2
   tufte::tufte_html:
     toc: true
     toc_depth: 2
+  tufte::tufte_handout:
+    toc: true
+    toc_depth: 2
 ---
+
+\newpage
+# A meditation on risk
 
 Risk in decision making is the possibility of loss or harm, caused by uncertainty about the outcome of the decision. 
 
