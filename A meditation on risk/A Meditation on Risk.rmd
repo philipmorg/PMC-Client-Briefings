@@ -71,6 +71,8 @@ The fact that your risk profile has two components leads to some interesting per
 
 If we take a quantitative view, your risk profile is a score (1.75 to 7 in my way of calculating this) that combines your emotional response to risk with your physical ability to sustain loss/harm. **Both of the cases above could have the same risk profile score**. In the first case the emotional component would be low but the ability to withstand loss/harm would be high. In the second, the numbers could be reversed, giving the same total risk profile score.
 
+Same risk profile score, very different behavior. This is why a single quantified number to represent risk tolerance isn't enough: we need to understand both the emotional and physical components of behavior under uncertain potential for loss/harm.
+
 ## Why this matters
 
 You should calibrate your risk-taking behavior with your risk profile. If you don't, taking on excessive risk _increases the possibility of loss or harm_, while taking on too little risk _does the same but over a long timeframe_.
@@ -152,7 +154,7 @@ Over a relatively longer timeframe, let's say 5 to 10 years, your risk profile c
 
 This means that over time, we would expect an entrepreneurial expert who is seeking to maximize their value to always take on an ever-increasing amount of risk.
 
-If we visualize risk as the tachometer on an internal combustion engine, the operating range has two zones: the "red zone" and everything else. If the red zone represents an entrepreneurial expert exceeding their risk profile, we would expect to see them keep the needle of the tach just below the beginning of the red zone, and over their career, we would expect the red zone to include less and less of the total range of the tach. We would expect their "risk RPM" to increase over the course of their career.
+If we visualize risk as the tachometer on an internal combustion engine, the operating range has two zones: the "red zone" and everything else. If the red zone represents an entrepreneurial expert exceeding their risk profile, we would expect to see them keep the needle of the tach just below the beginning of the red zone, and over their career, we would expect the red zone to consume less and less of the total range of the tach. We would expect their "risk RPM" to increase over the course of their career.
 
 This expert would spend their "risk budget" carefully, seeking to focus the risk budget on decisions and actions that help them _profit from the changes in the broader context_. This means, necessarily, that they and the composition of their expertise will also need to change.
 
